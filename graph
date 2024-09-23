@@ -1,0 +1,704 @@
+digraph {
+	graph [nodesep=0.1 rankdir=LR ranksep=0.4]
+	4333325264 [label="data: 0.1847
+grad: 1.0000" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333325264*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333325264*" -> 4333325264 [minlen=1]
+	4333324048 [label="data: 0.1847
+grad: 1.0000" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333324048+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333324048+" -> 4333324048 [minlen=1]
+	4333004688 [label="data: 0.0000
+grad: 1.0000" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333323472 [label="data: 0.1847
+grad: 1.0000" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333323472*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333323472*" -> 4333323472 [minlen=1]
+	4333323280 [label="data: -0.1847
+grad: -1.0000" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333323280log" [label=log fontsize=10 height=0.1 width=0.1]
+	"4333323280log" -> 4333323280 [minlen=1]
+	4333331216 [label="data: 0.8314
+grad: -1.2028" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333331216*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333331216*" -> 4333331216 [minlen=1]
+	4333329616 [label="data: 29.1737
+grad: -0.0058" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333329616exp" [label=exp fontsize=10 height=0.1 width=0.1]
+	"4333329616exp" -> 4333329616 [minlen=1]
+	4333333072 [label="data: 3.3733
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333333072+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333333072+" -> 4333333072 [minlen=1]
+	4333327504 [label="data: 4.2692
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327504+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333327504+" -> 4333327504 [minlen=1]
+	4333334160 [label="data: 0.8675
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333334160+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333334160+" -> 4333334160 [minlen=1]
+	4333336528 [label="data: 6.4692
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333336528+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333336528+" -> 4333336528 [minlen=1]
+	4333327376 [label="data: 8.0635
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327376+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333327376+" -> 4333327376 [minlen=1]
+	4333329360 [label="data: 10.0841
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333329360+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333329360+" -> 4333329360 [minlen=1]
+	4333328016 [label="data: 7.7805
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333328016+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333328016+" -> 4333328016 [minlen=1]
+	4333332432 [label="data: 6.3218
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333332432+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333332432+" -> 4333332432 [minlen=1]
+	4319489744 [label="data: 2.1667
+grad: -0.1686" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333323344 [label="data: 4.1550
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333323344*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333323344*" -> 4333323344 [minlen=1]
+	4319489168 [label="data: -4.2018
+grad: 0.1668" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333005712 [label="data: -0.9889
+grad: 0.5726" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333005712tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333005712tanh" -> 4333005712 [minlen=1]
+	4333005648 [label="data: -2.5928
+grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333005648+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333005648+" -> 4333005648 [minlen=1]
+	4333005264 [label="data: -2.5928
+grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333005264+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333005264+" -> 4333005264 [minlen=1]
+	4319486544 [label="data: -2.5928
+grad: 0.0127" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333005072 [label="data: 0.0000
+grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333005072*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333005072*" -> 4333005072 [minlen=1]
+	4319486416 [label="data: 4.9571
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333004432 [label="data: 0.0000
+grad: 3.7110" fillcolor=lightblue fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333005456 [label="data: -0.0000
+grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333005456*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333005456*" -> 4333005456 [minlen=1]
+	4319486480 [label="data: -1.9252
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333004496 [label="data: 0.0000
+grad: -0.9113" fillcolor=lightblue fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333322640 [label="data: 1.4587
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333322640*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333322640*" -> 4333322640 [minlen=1]
+	4319489232 [label="data: -1.4594
+grad: 0.1685" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333006608 [label="data: -0.9995
+grad: -0.0618" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333006608tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333006608tanh" -> 4333006608 [minlen=1]
+	4333006544 [label="data: -4.1519
+grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333006544+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333006544+" -> 4333006544 [minlen=1]
+	4333006160 [label="data: -4.1519
+grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333006160+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333006160+" -> 4333006160 [minlen=1]
+	4319486928 [label="data: -4.1519
+grad: -0.0001" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333005968 [label="data: -0.0000
+grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333005968*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333005968*" -> 4333005968 [minlen=1]
+	4319486800 [label="data: -6.0150
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333006352 [label="data: 0.0000
+grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333006352*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333006352*" -> 4333006352 [minlen=1]
+	4319486864 [label="data: 0.3482
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333322832 [label="data: 2.3036
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333322832*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333322832*" -> 4333322832 [minlen=1]
+	4319489296 [label="data: 4.5455
+grad: -0.0855" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333007504 [label="data: 0.5068
+grad: -1.1617" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333007504tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333007504tanh" -> 4333007504 [minlen=1]
+	4333007440 [label="data: 0.5584
+grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333007440+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333007440+" -> 4333007440 [minlen=1]
+	4333007056 [label="data: 0.5584
+grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333007056+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333007056+" -> 4333007056 [minlen=1]
+	4319487248 [label="data: 0.5584
+grad: -0.8634" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333006864 [label="data: -0.0000
+grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333006864*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333006864*" -> 4333006864 [minlen=1]
+	4319487120 [label="data: -3.7292
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333007248 [label="data: 0.0000
+grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333007248*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333007248*" -> 4333007248 [minlen=1]
+	4319487184 [label="data: 1.2740
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333327184 [label="data: -2.0205
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327184*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333327184*" -> 4333327184 [minlen=1]
+	4319489360 [label="data: -2.0232
+grad: -0.1684" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333008400 [label="data: 0.9987
+grad: -0.1033" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333008400tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333008400tanh" -> 4333008400 [minlen=1]
+	4333008336 [label="data: 3.6619
+grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333008336+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333008336+" -> 4333008336 [minlen=1]
+	4333007952 [label="data: 3.6619
+grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333007952+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333007952+" -> 4333007952 [minlen=1]
+	4319487568 [label="data: 3.6619
+grad: -0.0003" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333007760 [label="data: -0.0000
+grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333007760*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333007760*" -> 4333007760 [minlen=1]
+	4319487440 [label="data: -1.3494
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333008144 [label="data: -0.0000
+grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333008144*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333008144*" -> 4333008144 [minlen=1]
+	4319487504 [label="data: -5.7384
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333327440 [label="data: -1.5944
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327440*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333327440*" -> 4333327440 [minlen=1]
+	4319489424 [label="data: 1.5965
+grad: 0.1684" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333009296 [label="data: -0.9987
+grad: 0.1568" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333009296tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333009296tanh" -> 4333009296 [minlen=1]
+	4333009232 [label="data: -3.6555
+grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333009232+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333009232+" -> 4333009232 [minlen=1]
+	4333008848 [label="data: -3.6555
+grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333008848+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333008848+" -> 4333008848 [minlen=1]
+	4319487888 [label="data: -3.6555
+grad: 0.0004" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333008656 [label="data: -0.0000
+grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333008656*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333008656*" -> 4333008656 [minlen=1]
+	4319487760 [label="data: -1.8775
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333009040 [label="data: -0.0000
+grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333009040*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333009040*" -> 4333009040 [minlen=1]
+	4319487824 [label="data: -4.9505
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333330896 [label="data: -5.6017
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333330896*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333330896*" -> 4333330896 [minlen=1]
+	4319489552 [label="data: 5.6092
+grad: 0.1684" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333010256 [label="data: -0.9986
+grad: -1.6718" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333010256tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333010256tanh" -> 4333010256 [minlen=1]
+	4333010192 [label="data: -3.6494
+grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333010192+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333010192+" -> 4333010192 [minlen=1]
+	4333009808 [label="data: -3.6494
+grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333009808+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333009808+" -> 4333009808 [minlen=1]
+	4319488272 [label="data: -3.6494
+grad: -0.0045" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333009616 [label="data: -0.0000
+grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333009616*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333009616*" -> 4333009616 [minlen=1]
+	4319488144 [label="data: -2.1246
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333010000 [label="data: 0.0000
+grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333010000*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333010000*" -> 4333010000 [minlen=1]
+	4319488208 [label="data: 3.6496
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333338128 [label="data: 3.4017
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333338128*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333338128*" -> 4333338128 [minlen=1]
+	4319489616 [label="data: 3.4079
+grad: -0.1683" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333328400 [label="data: 0.9982
+grad: -1.2976" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333328400tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333328400tanh" -> 4333328400 [minlen=1]
+	4333328336 [label="data: 3.5036
+grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333328336+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333328336+" -> 4333328336 [minlen=1]
+	4333010704 [label="data: 3.5036
+grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333010704+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333010704+" -> 4333010704 [minlen=1]
+	4319488592 [label="data: 3.5036
+grad: -0.0047" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333010512 [label="data: -0.0000
+grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333010512*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333010512*" -> 4333010512 [minlen=1]
+	4319488464 [label="data: -0.6425
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333010896 [label="data: 0.0000
+grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333010896*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333010896*" -> 4333010896 [minlen=1]
+	4319488528 [label="data: 5.7349
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333336464 [label="data: -0.8960
+grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333336464*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333336464*" -> 4333336464 [minlen=1]
+	4319489680 [label="data: -0.9763
+grad: -0.1548" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333003472 [label="data: 0.9177
+grad: 0.6135" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333003472tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+	"4333003472tanh" -> 4333003472 [minlen=1]
+	4333328656 [label="data: 1.5743
+grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333328656+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333328656+" -> 4333328656 [minlen=1]
+	4333002704 [label="data: 1.5743
+grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333002704+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333002704+" -> 4333002704 [minlen=1]
+	4319488912 [label="data: 1.5743
+grad: 0.0968" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333003344 [label="data: 0.0000
+grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333003344*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333003344*" -> 4333003344 [minlen=1]
+	4319488784 [label="data: 4.2953
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333002512 [label="data: 0.0000
+grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333002512*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333002512*" -> 4333002512 [minlen=1]
+	4319488848 [label="data: 2.6541
+grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333323152 [label="data: 0.0285
+grad: -35.0913" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333323152**-1" [label="**-1" fontsize=10 height=0.1 width=0.1]
+	"4333323152**-1" -> 4333323152 [minlen=1]
+	4333331088 [label="data: 35.0913
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333331088+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333331088+" -> 4333331088 [minlen=1]
+	4333331600 [label="data: 35.0535
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333331600+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333331600+" -> 4333331600 [minlen=1]
+	4333335248 [label="data: 29.1737
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333335248+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333335248+" -> 4333335248 [minlen=1]
+	4333334032 [label="data: 0.0000
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333327888 [label="data: 5.8798
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327888exp" [label=exp fontsize=10 height=0.1 width=0.1]
+	"4333327888exp" -> 4333327888 [minlen=1]
+	4333324688 [label="data: 1.7715
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333324688+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333324688+" -> 4333324688 [minlen=1]
+	4333329168 [label="data: -0.7127
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333329168+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333329168+" -> 4333329168 [minlen=1]
+	4333329680 [label="data: 3.6172
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333329680+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333329680+" -> 4333329680 [minlen=1]
+	4333333200 [label="data: -0.6934
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333333200+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333333200+" -> 4333333200 [minlen=1]
+	4333336848 [label="data: 1.8837
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333336848+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333336848+" -> 4333336848 [minlen=1]
+	4333328912 [label="data: 4.5596
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333328912+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333328912+" -> 4333328912 [minlen=1]
+	4333328208 [label="data: 5.7455
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333328208+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333328208+" -> 4333328208 [minlen=1]
+	4333336272 [label="data: 3.8720
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333336272+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333336272+" -> 4333336272 [minlen=1]
+	4319490576 [label="data: 3.0364
+grad: 0.1676" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333336656 [label="data: 0.8356
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333336656*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333336656*" -> 4333336656 [minlen=1]
+	4319490000 [label="data: -0.8450
+grad: -0.1657" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333327696 [label="data: 1.8735
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327696*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333327696*" -> 4333327696 [minlen=1]
+	4319490064 [label="data: -1.8744
+grad: -0.1675" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333322960 [label="data: -1.1859
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333322960*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333322960*" -> 4333322960 [minlen=1]
+	4319490128 [label="data: -2.3400
+grad: 0.0849" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333327632 [label="data: -2.6759
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333327632*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333327632*" -> 4333327632 [minlen=1]
+	4319490192 [label="data: -2.6794
+grad: 0.1673" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333333456 [label="data: -2.5770
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333333456*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333333456*" -> 4333333456 [minlen=1]
+	4319490256 [label="data: 2.5805
+grad: -0.1673" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333337104 [label="data: 4.3106
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333337104*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333337104*" -> 4333337104 [minlen=1]
+	4319490384 [label="data: -4.3164
+grad: -0.1673" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333329872 [label="data: -4.3299
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333329872*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333329872*" -> 4333329872 [minlen=1]
+	4319490448 [label="data: -4.3377
+grad: 0.1673" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333334352 [label="data: 2.4842
+grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333334352*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333334352*" -> 4333334352 [minlen=1]
+	4319490512 [label="data: 2.7070
+grad: 0.1538" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333338448 [label="data: 0.0378
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333338448exp" [label=exp fontsize=10 height=0.1 width=0.1]
+	"4333338448exp" -> 4333338448 [minlen=1]
+	4333338512 [label="data: -3.2765
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333338512+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333338512+" -> 4333338512 [minlen=1]
+	4333337680 [label="data: 0.6992
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333337680+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333337680+" -> 4333337680 [minlen=1]
+	4333334992 [label="data: -2.8945
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333334992+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333334992+" -> 4333334992 [minlen=1]
+	4333334480 [label="data: -5.3139
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333334480+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333334480+" -> 4333334480 [minlen=1]
+	4333329936 [label="data: -11.2312
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333329936+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333329936+" -> 4333329936 [minlen=1]
+	4333337424 [label="data: -15.3605
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333337424+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333337424+" -> 4333337424 [minlen=1]
+	4333333648 [label="data: -13.8831
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333333648+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333333648+" -> 4333333648 [minlen=1]
+	4333336208 [label="data: -8.1928
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333336208+" [label="+" fontsize=10 height=0.1 width=0.1]
+	"4333336208+" -> 4333336208 [minlen=1]
+	4319491344 [label="data: -3.0093
+grad: 0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333334672 [label="data: -5.1835
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333334672*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333334672*" -> 4333334672 [minlen=1]
+	4319490768 [label="data: 5.2419
+grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333333392 [label="data: -5.6903
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333333392*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333333392*" -> 4333333392 [minlen=1]
+	4319490832 [label="data: 5.6931
+grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333333584 [label="data: -1.4774
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333333584*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333333584*" -> 4333333584 [minlen=1]
+	4319490896 [label="data: -2.9153
+grad: 0.0005" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333337616 [label="data: 4.1293
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333337616*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333337616*" -> 4333337616 [minlen=1]
+	4319490960 [label="data: 4.1347
+grad: 0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333335120 [label="data: 5.9173
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333335120*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333335120*" -> 4333335120 [minlen=1]
+	4319491024 [label="data: -5.9252
+grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333331152 [label="data: 2.4195
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333331152*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333331152*" -> 4333331152 [minlen=1]
+	4319491152 [label="data: -2.4227
+grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333338256 [label="data: 3.5937
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333338256*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333338256*" -> 4333338256 [minlen=1]
+	4319491216 [label="data: 3.6002
+grad: 0.0011" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333337872 [label="data: -3.9757
+grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	"4333337872*" [label="*" fontsize=10 height=0.1 width=0.1]
+	"4333337872*" -> 4333337872 [minlen=1]
+	4319491280 [label="data: -4.3322
+grad: 0.0010" fillcolor=lightgreen fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333323408 [label="data: -1.0000
+grad: -0.1847" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333324112 [label="data: 1.0000
+grad: 0.1847" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	4333324048 -> "4333325264*" [minlen=1]
+	4333004688 -> "4333324048+" [minlen=1]
+	4333323472 -> "4333324048+" [minlen=1]
+	4333323280 -> "4333323472*" [minlen=1]
+	4333331216 -> "4333323280log" [minlen=1]
+	4333329616 -> "4333331216*" [minlen=1]
+	4333333072 -> "4333329616exp" [minlen=1]
+	4333327504 -> "4333333072+" [minlen=1]
+	4333334160 -> "4333327504+" [minlen=1]
+	4333336528 -> "4333334160+" [minlen=1]
+	4333327376 -> "4333336528+" [minlen=1]
+	4333329360 -> "4333327376+" [minlen=1]
+	4333328016 -> "4333329360+" [minlen=1]
+	4333332432 -> "4333328016+" [minlen=1]
+	4319489744 -> "4333332432+" [minlen=1]
+	4333323344 -> "4333332432+" [minlen=1]
+	4319489168 -> "4333323344*" [minlen=1]
+	4333005712 -> "4333323344*" [minlen=1]
+	4333005648 -> "4333005712tanh" [minlen=1]
+	4333005264 -> "4333005648+" [minlen=1]
+	4319486544 -> "4333005264+" [minlen=1]
+	4333005072 -> "4333005264+" [minlen=1]
+	4319486416 -> "4333005072*" [minlen=1]
+	4333004432 -> "4333005072*" [minlen=1]
+	4333005456 -> "4333005648+" [minlen=1]
+	4319486480 -> "4333005456*" [minlen=1]
+	4333004496 -> "4333005456*" [minlen=1]
+	4333322640 -> "4333328016+" [minlen=1]
+	4319489232 -> "4333322640*" [minlen=1]
+	4333006608 -> "4333322640*" [minlen=1]
+	4333006544 -> "4333006608tanh" [minlen=1]
+	4333006160 -> "4333006544+" [minlen=1]
+	4319486928 -> "4333006160+" [minlen=1]
+	4333005968 -> "4333006160+" [minlen=1]
+	4319486800 -> "4333005968*" [minlen=1]
+	4333004432 -> "4333005968*" [minlen=1]
+	4333006352 -> "4333006544+" [minlen=1]
+	4319486864 -> "4333006352*" [minlen=1]
+	4333004496 -> "4333006352*" [minlen=1]
+	4333322832 -> "4333329360+" [minlen=1]
+	4319489296 -> "4333322832*" [minlen=1]
+	4333007504 -> "4333322832*" [minlen=1]
+	4333007440 -> "4333007504tanh" [minlen=1]
+	4333007056 -> "4333007440+" [minlen=1]
+	4319487248 -> "4333007056+" [minlen=1]
+	4333006864 -> "4333007056+" [minlen=1]
+	4319487120 -> "4333006864*" [minlen=1]
+	4333004432 -> "4333006864*" [minlen=1]
+	4333007248 -> "4333007440+" [minlen=1]
+	4319487184 -> "4333007248*" [minlen=1]
+	4333004496 -> "4333007248*" [minlen=1]
+	4333327184 -> "4333327376+" [minlen=1]
+	4319489360 -> "4333327184*" [minlen=1]
+	4333008400 -> "4333327184*" [minlen=1]
+	4333008336 -> "4333008400tanh" [minlen=1]
+	4333007952 -> "4333008336+" [minlen=1]
+	4319487568 -> "4333007952+" [minlen=1]
+	4333007760 -> "4333007952+" [minlen=1]
+	4319487440 -> "4333007760*" [minlen=1]
+	4333004432 -> "4333007760*" [minlen=1]
+	4333008144 -> "4333008336+" [minlen=1]
+	4319487504 -> "4333008144*" [minlen=1]
+	4333004496 -> "4333008144*" [minlen=1]
+	4333327440 -> "4333336528+" [minlen=1]
+	4319489424 -> "4333327440*" [minlen=1]
+	4333009296 -> "4333327440*" [minlen=1]
+	4333009232 -> "4333009296tanh" [minlen=1]
+	4333008848 -> "4333009232+" [minlen=1]
+	4319487888 -> "4333008848+" [minlen=1]
+	4333008656 -> "4333008848+" [minlen=1]
+	4319487760 -> "4333008656*" [minlen=1]
+	4333004432 -> "4333008656*" [minlen=1]
+	4333009040 -> "4333009232+" [minlen=1]
+	4319487824 -> "4333009040*" [minlen=1]
+	4333004496 -> "4333009040*" [minlen=1]
+	4333330896 -> "4333334160+" [minlen=1]
+	4319489552 -> "4333330896*" [minlen=1]
+	4333010256 -> "4333330896*" [minlen=1]
+	4333010192 -> "4333010256tanh" [minlen=1]
+	4333009808 -> "4333010192+" [minlen=1]
+	4319488272 -> "4333009808+" [minlen=1]
+	4333009616 -> "4333009808+" [minlen=1]
+	4319488144 -> "4333009616*" [minlen=1]
+	4333004432 -> "4333009616*" [minlen=1]
+	4333010000 -> "4333010192+" [minlen=1]
+	4319488208 -> "4333010000*" [minlen=1]
+	4333004496 -> "4333010000*" [minlen=1]
+	4333338128 -> "4333327504+" [minlen=1]
+	4319489616 -> "4333338128*" [minlen=1]
+	4333328400 -> "4333338128*" [minlen=1]
+	4333328336 -> "4333328400tanh" [minlen=1]
+	4333010704 -> "4333328336+" [minlen=1]
+	4319488592 -> "4333010704+" [minlen=1]
+	4333010512 -> "4333010704+" [minlen=1]
+	4319488464 -> "4333010512*" [minlen=1]
+	4333004432 -> "4333010512*" [minlen=1]
+	4333010896 -> "4333328336+" [minlen=1]
+	4319488528 -> "4333010896*" [minlen=1]
+	4333004496 -> "4333010896*" [minlen=1]
+	4333336464 -> "4333333072+" [minlen=1]
+	4319489680 -> "4333336464*" [minlen=1]
+	4333003472 -> "4333336464*" [minlen=1]
+	4333328656 -> "4333003472tanh" [minlen=1]
+	4333002704 -> "4333328656+" [minlen=1]
+	4319488912 -> "4333002704+" [minlen=1]
+	4333003344 -> "4333002704+" [minlen=1]
+	4319488784 -> "4333003344*" [minlen=1]
+	4333004432 -> "4333003344*" [minlen=1]
+	4333002512 -> "4333328656+" [minlen=1]
+	4319488848 -> "4333002512*" [minlen=1]
+	4333004496 -> "4333002512*" [minlen=1]
+	4333323152 -> "4333331216*" [minlen=1]
+	4333331088 -> "4333323152**-1" [minlen=1]
+	4333331600 -> "4333331088+" [minlen=1]
+	4333335248 -> "4333331600+" [minlen=1]
+	4333329616 -> "4333335248+" [minlen=1]
+	4333334032 -> "4333335248+" [minlen=1]
+	4333327888 -> "4333331600+" [minlen=1]
+	4333324688 -> "4333327888exp" [minlen=1]
+	4333329168 -> "4333324688+" [minlen=1]
+	4333329680 -> "4333329168+" [minlen=1]
+	4333333200 -> "4333329680+" [minlen=1]
+	4333336848 -> "4333333200+" [minlen=1]
+	4333328912 -> "4333336848+" [minlen=1]
+	4333328208 -> "4333328912+" [minlen=1]
+	4333336272 -> "4333328208+" [minlen=1]
+	4319490576 -> "4333336272+" [minlen=1]
+	4333336656 -> "4333336272+" [minlen=1]
+	4319490000 -> "4333336656*" [minlen=1]
+	4333005712 -> "4333336656*" [minlen=1]
+	4333327696 -> "4333328208+" [minlen=1]
+	4319490064 -> "4333327696*" [minlen=1]
+	4333006608 -> "4333327696*" [minlen=1]
+	4333322960 -> "4333328912+" [minlen=1]
+	4319490128 -> "4333322960*" [minlen=1]
+	4333007504 -> "4333322960*" [minlen=1]
+	4333327632 -> "4333336848+" [minlen=1]
+	4319490192 -> "4333327632*" [minlen=1]
+	4333008400 -> "4333327632*" [minlen=1]
+	4333333456 -> "4333333200+" [minlen=1]
+	4319490256 -> "4333333456*" [minlen=1]
+	4333009296 -> "4333333456*" [minlen=1]
+	4333337104 -> "4333329680+" [minlen=1]
+	4319490384 -> "4333337104*" [minlen=1]
+	4333010256 -> "4333337104*" [minlen=1]
+	4333329872 -> "4333329168+" [minlen=1]
+	4319490448 -> "4333329872*" [minlen=1]
+	4333328400 -> "4333329872*" [minlen=1]
+	4333334352 -> "4333324688+" [minlen=1]
+	4319490512 -> "4333334352*" [minlen=1]
+	4333003472 -> "4333334352*" [minlen=1]
+	4333338448 -> "4333331088+" [minlen=1]
+	4333338512 -> "4333338448exp" [minlen=1]
+	4333337680 -> "4333338512+" [minlen=1]
+	4333334992 -> "4333337680+" [minlen=1]
+	4333334480 -> "4333334992+" [minlen=1]
+	4333329936 -> "4333334480+" [minlen=1]
+	4333337424 -> "4333329936+" [minlen=1]
+	4333333648 -> "4333337424+" [minlen=1]
+	4333336208 -> "4333333648+" [minlen=1]
+	4319491344 -> "4333336208+" [minlen=1]
+	4333334672 -> "4333336208+" [minlen=1]
+	4319490768 -> "4333334672*" [minlen=1]
+	4333005712 -> "4333334672*" [minlen=1]
+	4333333392 -> "4333333648+" [minlen=1]
+	4319490832 -> "4333333392*" [minlen=1]
+	4333006608 -> "4333333392*" [minlen=1]
+	4333333584 -> "4333337424+" [minlen=1]
+	4319490896 -> "4333333584*" [minlen=1]
+	4333007504 -> "4333333584*" [minlen=1]
+	4333337616 -> "4333329936+" [minlen=1]
+	4319490960 -> "4333337616*" [minlen=1]
+	4333008400 -> "4333337616*" [minlen=1]
+	4333335120 -> "4333334480+" [minlen=1]
+	4319491024 -> "4333335120*" [minlen=1]
+	4333009296 -> "4333335120*" [minlen=1]
+	4333331152 -> "4333334992+" [minlen=1]
+	4319491152 -> "4333331152*" [minlen=1]
+	4333010256 -> "4333331152*" [minlen=1]
+	4333338256 -> "4333337680+" [minlen=1]
+	4319491216 -> "4333338256*" [minlen=1]
+	4333328400 -> "4333338256*" [minlen=1]
+	4333337872 -> "4333338512+" [minlen=1]
+	4319491280 -> "4333337872*" [minlen=1]
+	4333003472 -> "4333337872*" [minlen=1]
+	4333323408 -> "4333323472*" [minlen=1]
+	4333324112 -> "4333325264*" [minlen=1]
+}
