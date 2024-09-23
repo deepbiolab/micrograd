@@ -68,7 +68,7 @@ class MLP(nn.Module):
 train_split, val_split, test_split = gen_data_yinyang(random, n=100)
 
 # init the model: 2D inputs, 8 neurons, 3 outputs (logits)
-model = MLP(2, [8, 3])
+model = MLP(2, [18, 3])
 model.to(torch.float64) # ensure we're using double precision
 
 # optimize using Adam
